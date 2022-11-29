@@ -1,0 +1,48 @@
+li:hover {
+    color:red
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 500%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+ li a {
+    display: block;
+    padding: 10px;
+    background-color: #dddddd;
+  }
+
+  strong {
+    display: block;
+    padding: 10px;
+    background-color: #dddddd;
+  }
+
+  footer {
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 200%;
+}
+
+body {
+  background-color: rgb(159, 147, 147);
+}
+
+p {
+  color: white;
+  font-size: 150%;
+}
