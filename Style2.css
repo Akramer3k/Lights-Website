@@ -1,0 +1,74 @@
+li:hover {
+  color:red
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 500%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  color: white;
+}
+
+li a {
+  padding: 10px;
+}
+
+strong {
+  display: block;
+  padding: 10px;
+
+}
+
+footer {
+  background-color: grey;
+  position: fixed;
+  bottom: 0;
+  width: 200%;
+}
+
+body {
+background-image: url('BackDrop.png');
+background-size: cover;
+}
+
+p {
+color: white;
+font-size: 150%;
+margin-left: 45px;
+}
+
+.sidenav {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #111;
+overflow-x: hidden;
+padding-top: 20px;
+}
+.main {
+margin-left: 190px;
+font-size: 15px;
+padding: 0px 10px;
+}
+
+iframe {
+  border-radius: 25px;
+  border: 5px solid #2b2e288b;
+  background: #db690c;
+  padding: 20px; 
+  width: 320px;
+  height: 300px;  
+}
